@@ -3,7 +3,7 @@
 ### Who am I? 💅
 I'm a computer engineering student eager to learn everything about this world. 💻
 
-### Repository Guide 📋
-My repositories will mainly be divided into two different groups:
-- "Progra" 🎓: projects related with my studies
-- "Fun" 🎈: projects I do just for fun 
+### Working on 📋
+Right now I am developing my skills in diferent languages:
+- <img width="20" height="20" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> -> I am digging deeper and tying to improve my current skills
+- <img width="20" height="20" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> -> I am getting started in this worldwide known language
