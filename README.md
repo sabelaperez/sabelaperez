@@ -1,6 +1,6 @@
 # Hello World ✨
 
-### Who am I? 💅
+### Who am I? 
 I'm a computer engineering student eager to learn everything about this world. 💻
 
 ### Working on 📋
