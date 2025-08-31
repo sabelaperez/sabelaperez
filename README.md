@@ -8,4 +8,4 @@ Tengo conocimientos y experiencia en proyectos con **C y Java**, además de sabe
 Como estudiante de ingeniería no me son desconocidas las redes, los sistemas operativos o la arquitectura de computadoras, lo que me proporciona una visión muy global del desarrollo del software.
 Actualmente estoy aprendiendo **Desarrollo Móvil**, más concretamente **React Native con Expo** para crear aplicaciones. 
 
-### No dudes en contactarme para cualquier idea, comentario o proyecto. :smile:
+*No dudes en contactarme para cualquier idea, comentario o proyecto.* :smile:
